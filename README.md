@@ -249,7 +249,9 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **RE3** - The fully reversed source code for GTA III and GTA VC. [[source]](https://github.com/halpz/re3)
 
-- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[dource]](https://github.com/TombEngine/TombEngine)
+- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom Tomb Raider adventures. [[source]](https://github.com/TombEngine/TombEngine)
+
+- **[ValveSoftware](https://github.com/ValveSoftware)** - A company published few game source code and related network package.
 
 ## Tower Defense games
 
@@ -260,7 +262,7 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **azerothcore-wotlk** - Same as TrinityCore.[[source]](https://github.com/azerothcore/azerothcore-wotlk)
 
-- **rathena** - A new MMORPG framework.[[source]](https://github.com/rathena/rathena)
+- **rathena** - A new MMORPG framework.[[source]](https://github.com/rathena/rathena) [Tutorial](https://www.youtube.com/watch?v=WZP0_4kPZ-E)
 
 ## Turn-Based strategies
 
