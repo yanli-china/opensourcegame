@@ -264,6 +264,9 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **rathena** - A new MMORPG framework.[[source]](https://github.com/rathena/rathena) [Tutorial](https://www.youtube.com/watch?v=WZP0_4kPZ-E)
 
+- **KBEngine** A MMOG engine of server.[[source]](https://github.com/kbengine/kbengine/tree/master)
+
+
 ## Turn-Based strategies
 
 - **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
