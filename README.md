@@ -14,9 +14,6 @@ This is new, updated open source games list. Based on [opensourcegame](https://g
 - [Real-Time strategies](#real-time-strategies)
 - [Roguelikes](#roguelikes)
 - [Role-Playing games](#role-playing-games)
-- [Sandbox games](#sandbox-games)
-- [Shoot 'em up games](#shoot-em-up-games)
-- [Sport games](#sport-games)
 - [Third-Person games](#third-person-games)
 - [Tower Defense games](#tower-defence-games)
 - [Turn-Based strategies](#turn-based-strategies)
@@ -87,18 +84,17 @@ This is new, updated open source games list. Based on [opensourcegame](https://g
 
 - **Wolfenstein 3D** - [[source]](https://github.com/id-Software/wolf3d)
 
-Duke Nukem 3D
-Shadow Warrior 3D
-Alien vs. Predator (the 1999 PC game)
-Red Eclipse - Multiplayer FPS game built on Cube Engine 2 using SDL and OpenGL
-Passage - Passage is a side-scroller 2007 experimental video game developed by Jason Rohrer.
-OpenLoco 
-Portal 64
-Theme Hospital 
-open-source-baby-shower-game
-openmohaa
-OpenNefia
-Taisei
+- Duke Nukem 3D
+- Shadow Warrior 3D
+- Alien vs. Predator (the 1999 PC game)
+- Red Eclipse - Multiplayer FPS game built on Cube Engine 2 using SDL and OpenGL
+- Passage - Passage is a side-scroller 2007 experimental video game developed by Jason Rohrer.
+- OpenLoco 
+- Theme Hospital 
+- open-source-baby-shower-game
+- openmohaa
+- OpenNefia
+- Taisei
 ## Platformers
 
 - **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
@@ -119,23 +115,23 @@ Taisei
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
-- **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/lambertjamesd/portal64)
+- **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive/tree/master)
 
 ## Racing games
 
 - **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game wipEout. [[source]](https://github.com/phoboslab/wipeout-rewrite)
 
--Speed Dreams: https://www.speed-dreams.net
--Stunt Rally: https://stuntrally.tuxfamily.org/
--SuperTuxKart: https://supertuxkart.net
--Rigs of Rods: https://www.rigsofrods.org/
--Vdrift: https://vdrift.net/
--Trigger Rally: https://trigger-rally.sourceforge.io/
--Yorg: https://www.ya2.it/pages/yorg.html#yorg
--Dust Racing 2D: https://github.com/juzzlin/DustRacing2D
--TORCS: https://torcs.sourceforge.net/
--Mania Drive: http://maniadrive.raydium.org/
--RVGL: https://rvgl.org/
+- Speed Dreams: https://www.speed-dreams.net
+- Stunt Rally: https://stuntrally.tuxfamily.org/
+- SuperTuxKart: https://supertuxkart.net
+- Rigs of Rods: https://www.rigsofrods.org/
+- Vdrift: https://vdrift.net/
+- Trigger Rally: https://trigger-rally.sourceforge.io/
+- Yorg: https://www.ya2.it/pages/yorg.html#yorg
+- Dust Racing 2D: https://github.com/juzzlin/DustRacing2D
+- TORCS: https://torcs.sourceforge.net/
+- Mania Drive: http://maniadrive.raydium.org/
+- RVGL: https://rvgl.org/
 
 ## Real-Time strategies
 
@@ -219,19 +215,6 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
 
-## Sandbox games
-
-- **Minosoft** - An open source minecraft client, written from scratch in kotlin (and java). [[source]](https://github.com/bixilon/minosoft)
-
-## Shoot 'em up games
-
-- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. **[[source]](https://github.com/fragglet/sdl-sopwith)**
-
-## Sport games
-
-- **Open Golf** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
-
-- **Pooltool** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
 
 ## Third-Person games
 
@@ -253,9 +236,6 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[ValveSoftware](https://github.com/ValveSoftware)** - A company published few game source code and related network package.
 
-## Tower Defense games
-
-- **Izowave** - Your task is to survive on chosen planet as many waves as possible. [[source]](https://github.com/neki-dev/izowave)
 
 ## MMORPG
 - **TrinityCore** - Open source MMORPG framework.[[source]](https://github.com/TrinityCore/TrinityCore)
@@ -289,7 +269,7 @@ The game also has a lot of forks that add their own features, difficulty scaling
 
 - **[VCMI Project](https://vcmi.eu)** - Open-source engine for Heroes of Might and Magic III. [[source]](https://github.com/vcmi/vcmi)
 
-AncientBeast
+- AncientBeast
 
 ## Other lists
 
