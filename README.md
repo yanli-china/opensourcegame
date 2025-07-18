@@ -8,7 +8,6 @@ This is new, updated open source games list. Based on [opensourcegame](https://g
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
 - [First-Person games](#first-person-games)
-- [Platformers](#platformers)
 - [Puzzle games](#puzzle-games)
 - [Racing games](#racing-games)
 - [Real-Time strategies](#real-time-strategies)
@@ -106,16 +105,6 @@ This is new, updated open source games list. Based on [opensourcegame](https://g
 - **[OpenGOAL](https://opengoal.dev)** - This project is to port **Jak & Daxter Series** to PC. [[source]](https://github.com/water111/jak-project)
 
 - **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
-
-- **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
-
-- **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
-
-## Puzzle games
-
-- **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
-
-- **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive/tree/master)
 
 ## Racing games
 
