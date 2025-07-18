@@ -8,7 +8,7 @@ This is new, updated open source games list. Based on [opensourcegame](https://g
 - [Business and Tycoon games](#business-and-tycoon-games)
 - [City-Building games](#city-building-games)
 - [First-Person games](#first-person-games)
-- [Puzzle games](#puzzle-games)
+- [Planformer](#platformers)
 - [Racing games](#racing-games)
 - [Real-Time strategies](#real-time-strategies)
 - [Roguelikes](#roguelikes)
